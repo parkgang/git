@@ -11,3 +11,4 @@ git flow를 연습해보자!
 1. 깃허브 프로필
 1. push전1
 1. push전2
+1. push전3
