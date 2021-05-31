@@ -49,5 +49,6 @@ git flow를 연습해보자!
 1. main
 1. main
 1. main
+1. main
 
 # 바뀌면 안되는 헤더
