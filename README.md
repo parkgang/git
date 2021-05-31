@@ -14,3 +14,4 @@ git flow를 연습해보자!
 1. push전3
 1. push전4
 1. push전5
+1. push전6
