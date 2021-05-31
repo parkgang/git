@@ -29,5 +29,6 @@ git flow를 연습해보자!
 1. develop
 1. develop
 1. main
+1. develop
 
 # 바뀌면 안되는 제목
