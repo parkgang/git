@@ -18,3 +18,4 @@ git flow를 연습해보자!
 1. push전7
 1. main
 1. develop
+1. develop
