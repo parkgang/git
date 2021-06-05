@@ -6,3 +6,4 @@
 1. func2
 1. func3
 1. func4
+1. func5
